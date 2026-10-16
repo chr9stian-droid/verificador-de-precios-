@@ -1,2 +1,2 @@
-# verificador-de-precios-
-verificador de precios 
+# Checador-de-precios-chedraui
+Página web para checar precios 
